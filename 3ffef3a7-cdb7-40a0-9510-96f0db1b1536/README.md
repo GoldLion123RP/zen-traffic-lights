@@ -1,6 +1,10 @@
 # Zen Traffic Lights
 
-Elegant macOS-inspired circular traffic light buttons for **Zen Browser**. This mod is a modern, improved fork of the original `zen-minimal-exit-menu` by dinnoyow, optimized for Zen's unique sidebar and compact layouts with deep customization.
+Elegant macOS-inspired circular traffic light buttons for **Zen Browser**.
+
+![Zen Traffic Lights Preview](image.png)
+
+This mod is a modern, improved fork of the original `zen-minimal-exit-menu` by dinnoyow, optimized for Zen's unique sidebar and compact layouts with deep customization.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Zen Browser](https://img.shields.io/badge/browser-Zen-purple.svg)](https://zen-browser.app/mods/)
