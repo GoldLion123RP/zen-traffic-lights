@@ -1,0 +1,26 @@
+[
+  {
+    "property": "mod.traffic-lights-mod-zen.colors_on_hover",
+    "label": "Show Colors only on Hover",
+    "type": "checkbox",
+    "defaultValue": true
+  },
+  {
+    "property": "mod.traffic-lights-mod-zen.hover_symbols",
+    "label": "Show Symbols on Hover",
+    "type": "checkbox",
+    "defaultValue": true
+  },
+  {
+    "property": "mod.traffic-lights-mod-zen.button_size_large",
+    "label": "Use Large Buttons",
+    "type": "checkbox",
+    "defaultValue": false
+  },
+  {
+    "property": "mod.traffic-lights-mod-zen.animations_enabled",
+    "label": "Enable Tactile Animations",
+    "type": "checkbox",
+    "defaultValue": true
+  }
+]
